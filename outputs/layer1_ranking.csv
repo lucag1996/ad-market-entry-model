@@ -1,0 +1,26 @@
+iso3,country,pillar_size,pillar_quality,layer1_score
+USA,United States,97.8,92.2,95.0
+DEU,Germany,65.1,95.4,80.2
+GBR,United Kingdom,62.5,89.2,75.9
+JPN,Japan,62.2,87.7,75.0
+CHN,China,89.5,59.3,74.4
+FRA,France,58.2,88.0,73.1
+CAN,Canada,53.1,92.5,72.8
+NLD,Netherlands,41.4,98.5,69.9
+AUS,Australia,45.6,92.3,69.0
+KOR,South Korea,54.1,83.9,69.0
+ESP,Spain,48.9,81.7,65.3
+SAU,Saudi Arabia,46.5,67.9,57.2
+ARE,United Arab Emirates,30.2,82.7,56.4
+POL,Poland,35.5,75.7,55.6
+ISR,Israel,26.3,84.3,55.3
+IND,India,64.8,41.0,52.9
+QAT,Qatar,20.9,76.4,48.6
+TUR,Turkey,50.1,44.0,47.0
+BRA,Brazil,50.6,41.2,45.9
+IDN,Indonesia,41.9,41.0,41.4
+RUS,Russia,54.9,16.9,35.9
+VNM,Vietnam,28.2,41.7,34.9
+EGY,Egypt,20.0,23.8,21.9
+DZA,Algeria,16.7,19.5,18.1
+PAK,Pakistan,10.7,2.5,6.6

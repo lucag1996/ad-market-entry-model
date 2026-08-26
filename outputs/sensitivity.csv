@@ -1,0 +1,26 @@
+iso3,country,rank_mean,rank_std
+USA,United States,1.0,0.06
+DEU,Germany,2.3,0.65
+GBR,United Kingdom,3.5,1.16
+FRA,France,4.5,1.15
+CAN,Canada,4.6,1.21
+NLD,Netherlands,5.8,1.31
+JPN,Japan,7.1,1.28
+ESP,Spain,7.4,0.71
+AUS,Australia,9.6,0.9
+KOR,South Korea,9.7,0.91
+POL,Poland,10.6,0.69
+ISR,Israel,12.0,0.6
+TUR,Turkey,12.9,0.44
+SAU,Saudi Arabia,15.3,1.14
+ARE,United Arab Emirates,15.4,1.28
+QAT,Qatar,15.8,1.48
+IND,India,16.1,1.37
+BRA,Brazil,17.7,1.06
+IDN,Indonesia,18.6,0.71
+VNM,Vietnam,20.0,0.13
+EGY,Egypt,21.2,0.38
+DZA,Algeria,21.8,0.38
+CHN,China,23.0,0.04
+PAK,Pakistan,24.0,0.0
+RUS,Russia,25.0,0.0
